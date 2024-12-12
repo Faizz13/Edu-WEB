@@ -7,3 +7,5 @@ Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
 Cloud Computing is responsible for creating and managing APIs, databases, and servers, so that the features I have designed in this website, the data and information entered by users and technicians can be used, stored, and maintained properly.
 
 
+## TOOLS
+![Edu-WEB CloudArchitecture](Architecture/Architec.drawio.png)
