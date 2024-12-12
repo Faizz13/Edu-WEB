@@ -1,7 +1,7 @@
 # Edu-WEB Edu-WEB Toy Tradisional Scanner
 
 Bangkit Capstone Team ID : C242-PR639	 <br>
-Here is our team Capstone Product Based repository for Bangkit 2024 Capstone project. Our team consist of 1 Mobile Development, 3 Machine Learning, and 2 Cloud Computing students.
+Here is our team's or my own Capstone product-based repository for the Bangkit 2024 Capstone project. Our team consists of 3 Machine Learning students (Inactive), and 3 Cloud Computing students (2 Inactive). 
 
 
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
