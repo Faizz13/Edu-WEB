@@ -16,4 +16,4 @@ In this application, users can easily scan or upload an image of any traditional
 
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Branch](https://github.com/Faizz13/Edu-WEB/tree/Cloud_Computing) |
+| Cloud Computing | [CC Branch](https://github.com/Faizz13/Edu-WEB/tree/Cloud_Computing) |
