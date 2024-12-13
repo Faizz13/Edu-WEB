@@ -27,7 +27,7 @@ Cloud computing plays a vital role in the development, deployment, and managemen
 
 The Google Cloud Pricing Calculator is used in our project to effectively estimate and plan cloud costs. It provides detailed cost projections based on selected services, usage scenarios, and configurations. This tool helps ensure that we remain within budget, optimize resource allocation, and make informed decisions by comparing different setups and pricing options before implementation.
 
-[EstimatedCostperMonth](Architecture/cost.jpeg)
+[EstimatedCostperMonth](Architecture/cost.jpg)
 
 ## Edu-WEB DOCUMENTATION API
 ![APIDOC](Architecture/Postman-logo-orange-2021_1155x.png)
