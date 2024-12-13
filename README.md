@@ -1,4 +1,4 @@
-# Edu-WEB Toy Tradisional Scanner
+# Edu-WEB Traditional Toy Scanner
 
 Bangkit Capstone Team ID : C242-PR639	 <br>
 Here is our repository for the Bangkit 2024 Capstone project - Cloud Computing.
